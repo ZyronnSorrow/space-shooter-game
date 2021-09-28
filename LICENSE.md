@@ -1,0 +1,2 @@
+# License
+With the exception of the Unity game engine and its assets, and any assets that are credited, all assets of this game are the intellectual property of Kevin Moore. None of the assets of this game may be reproduced or redistributed without the express permission of Kevin Moore. Any assets that belong to Unity Technologies or credited third parties are subject to their respective licenses.
